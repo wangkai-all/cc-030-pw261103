@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/DetailPanel.tsx","./src/components/Icon.tsx","./src/components/ImportDialog.tsx","./src/components/MapCanvas.tsx","./src/components/QualityDialog.tsx","./src/components/RulesDialog.tsx","./src/components/StatusBadge.tsx","./src/lib/api.ts","./src/lib/format.ts"],"version":"5.9.3"}
